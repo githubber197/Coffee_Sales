@@ -57,5 +57,5 @@ This project is open-source and available under the MIT License.
 Feel free to submit pull requests and suggestions!
 
 ---
-💡 **Developed by [Your Name]** 🚀
+💡 **Developed by D Rajeev** 🚀
 
